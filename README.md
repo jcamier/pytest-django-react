@@ -26,3 +26,5 @@ https://reactjs.org/
 
 Brian Okken:
 https://pragprog.com/book/bopytest/python-testing-with-pytest
+
+After creating app, go to http://localhost:8000/api/leads/
