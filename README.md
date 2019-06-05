@@ -12,6 +12,8 @@ https://www.valentinog.com/blog/drf/
 Brad Traversy:
 
 https://www.youtube.com/watch?v=Uyei2iDA4Hs
+https://www.youtube.com/watch?v=GieYIzvdt2U
+https://www.youtube.com/watch?v=BmL8iaLMnQ0
 
 Django Project:
 https://www.djangoproject.com
